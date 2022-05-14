@@ -1,6 +1,6 @@
 {
   "name": "@ken-matsui/eslint-config-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shared ESLint config for JavaScript",
   "main": "index.js",
   "scripts": {
