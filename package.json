@@ -1,0 +1,25 @@
+{
+  "name": "@ken-matsui/eslint-config-js",
+  "version": "0.1.0",
+  "description": "Shared ESLint config for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ken-matsui/eslint-config-js.git"
+  },
+  "author": "Ken Matsui <26405363+ken-matsui@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ken-matsui/eslint-config-js/issues"
+  },
+  "homepage": "https://github.com/ken-matsui/eslint-config-js#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8"
+  }
+}
