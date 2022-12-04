@@ -9,5 +9,6 @@ module.exports = {
     "indent": ["error", 4],
     "object-shorthand": "error",
     "no-multi-spaces": "error",
+    "eol-last": ["error", "always"],
   }
 }
